@@ -34,3 +34,10 @@ will create .cor source files to be launched by ./corewar executable
 #################### NCURSES OUTPUT MODE #######################
     -v               : Ncurses output mode
 ```
+
+## Authors
+
+* **Vitalii Poltavets** - Virtual machine [ChoadPet](https://github.com/ChoadPet)
+* **Yaroslav Zakharchuk** - Virtual machine [ElCorte](https://github.com/ElCorrte)
+* **Katerina Zakharchuk** - Assembler [kzakharc](https://github.com/kzakharc)
+* **Dmitry Spiridonov** - Ncurses visualisation [d-spiridonov](https://github.com/d-spiridonov)

@@ -9,11 +9,7 @@ To install the program you must have gcc compiler and ncurses library installed 
 
 ### Installing
 ```
-git clone https://github.com/d-spiridonov/corewar.git
-```
-
-```
-make
+Install the program using makefile
 ```
 
 
